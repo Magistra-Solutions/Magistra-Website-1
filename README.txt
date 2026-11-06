@@ -1,38 +1,19 @@
-MAGISTRA SOLUTIONS · WEBSITE V8 — PUBLICATION PACKAGE
+MAGISTRA SOLUTIONS — V10 Technical Services Update
 
-Upload all files contained in this ZIP directly to the ROOT of the GitHub Pages repository.
-Do not upload the ZIP itself. Keep the filenames unchanged.
+BASIS: Magistra V9 (five languages, legal and compliance unchanged).
 
-PAGES
-index.html; engineering.html; technology.html; compliance.html; strategy.html;
-about.html; contact.html; legal-notice.html; privacy.html; cookies.html
+CHANGED SERVICES:
+- Engineering & Integrity: seven service cards incl. Process Safety and Método Paraíso (36 variables).
+- Technology & Digitalization: brand-neutral asset integrity software and SAP integration description, SAP® attribution, #software anchor. No certification, official partnership or product-name claims.
+- Strategy: Technical Due Diligence for acquisitions, sales, investment and industrial succession.
+- Related technical dropdowns and translations (EN, ES, DE, CA, FR) updated consistently.
 
-LANGUAGES
-English · Español · Deutsch · Català · Français
-Legal Notice, Privacy and Cookie pages are fully provided in all five languages.
-The language preference is saved only after explicit selection; no marketing analytics are installed.
+NOT CHANGED: Risk & Compliance services, legal notices, privacy, cookies, contact details, logo, hosting configuration.
 
-TECHNICAL
-Static website; no WordPress, no own backend, no embedded forms or tracking tools.
-The contact form launches the visitor's mail application using mailto:; it does NOT transmit data through this website.
+UPLOAD: Extract ZIP; upload files over the same filenames in repository root. DO NOT delete the existing CNAME file. Do not upload ZIP itself. HTTPS/domain/DNS remain unchanged.
 
-CHECKS BEFORE GOING LIVE (owner responsibility)
-1. Confirm corporate identity and trade-register information against current documents.
-2. Confirm that GitHub Pages is the website host and that business mail is indeed received by the Google service indicated by existing DNS MX/SPF/DKIM records. If email provider differs, update the Privacy text in all five languages.
-3. Confirm the privacy terms/data processing and international-transfer documentation of the providers used for hosting and email (GitHub, Google), including any applicable safeguards.
-4. Test live site cookies/storage and external requests in a browser; the static files have no marketing trackers but third-party hosting behavior cannot be fully confirmed offline.
-5. Confirm you own or hold rights to all published graphics, logos, case-result statements, and sector/experience claims.
-6. Set GitHub Pages Custom domain to www.magistra-solutions.com; set DNS at Infomaniak without touching mail MX/SPF/DKIM/DMARC or NS. Enable Enforce HTTPS. Verify domain ownership.
-7. Test the five languages, navigation, accessibility, WhatsApp, calendar and email on mobile and desktop.
-8. Any new analytics, CRM, marketing, embeds or customer portal requires a privacy/cookie review before activation.
+VERIFY: test all language options; Engineering nav links (#psm / #paraiso), Technology (#software), engineering booking link, mobile dropdown and SAP wording.
 
-No mandatory cookie banner is included because the supplied site has no non-essential cookies or tracking. Language choice uses localStorage.
-The website is not password protected and may be indexed by search engines.
+LEGAL / COMMERCIAL CAUTION: SAP integration capability should be factually supportable. No SAP certification or partnership is claimed. Método Paraíso and its 36-variable methodology were approved as supplied content; confirm publication rights internally.
 
-Sources consulted for the legal structure: GDPR Article 13 (EUR-Lex), Spanish LSSI-CE Article 10 (BOE), AEPD Cookie Guide, GitHub Pages documentation. This is a practical draft, not a legal opinion.
-
-V9 TRANSLATION / DIAGNOSTIC CORRECTION
-- 36 variables in Phase 0 in all five languages.
-- Translation keys added to previously hard-coded content, nav dropdowns, phase and metric captions, technology and strategy statements, region labels.
-- Product name removed from Technology public copy per confidential partnership communication; no certification claims added.
-- Existing Engineering services remain unchanged pending separate approval of new Process Safety and method additions.
+V11 DACH WORDING: only German translation values refined for sober technical B2B audiences in DACH. English, Spanish, Catalan and French unchanged; HTML, CSS, JS, logo, compliance/legal pages and CNAME not modified. No new services or certifications.
