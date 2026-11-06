@@ -29,6 +29,8 @@
     if(!LANGS.includes(lang))lang='en';
     const d=I18N[lang]||I18N.en||{};
     document.documentElement.lang=lang;
+    const titleKey=document.body.getAttribute("data-page-title");
+    if(titleKey && d[titleKey]) document.title=d[titleKey]+" | Magistra Solutions";
     document.querySelectorAll('[data-i18n]').forEach(el=>{
       const k=el.getAttribute('data-i18n');
       if(d[k]) el.textContent=d[k];

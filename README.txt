@@ -30,3 +30,9 @@ No mandatory cookie banner is included because the supplied site has no non-esse
 The website is not password protected and may be indexed by search engines.
 
 Sources consulted for the legal structure: GDPR Article 13 (EUR-Lex), Spanish LSSI-CE Article 10 (BOE), AEPD Cookie Guide, GitHub Pages documentation. This is a practical draft, not a legal opinion.
+
+V9 TRANSLATION / DIAGNOSTIC CORRECTION
+- 36 variables in Phase 0 in all five languages.
+- Translation keys added to previously hard-coded content, nav dropdowns, phase and metric captions, technology and strategy statements, region labels.
+- Product name removed from Technology public copy per confidential partnership communication; no certification claims added.
+- Existing Engineering services remain unchanged pending separate approval of new Process Safety and method additions.
